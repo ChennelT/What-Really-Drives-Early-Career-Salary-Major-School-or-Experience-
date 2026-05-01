@@ -1,4 +1,4 @@
-# What-Really-Drives-Early-Career-Salary:-Major-School-or-Experience
+# What-Really-Drives-Early-Career-Salary-Major-or-School-Characteristics
 Chennel Thompson  
 ECON4970 - Data Science for Economics  
 April 2026
