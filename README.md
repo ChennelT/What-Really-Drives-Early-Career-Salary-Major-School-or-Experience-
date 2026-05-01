@@ -13,7 +13,7 @@ In doing so, the project examines:
 * Do higher-cost or more selective schools lead to meaningfully higher early-career earnings?
 * Does prior experience narrow the salary gap between high and low paying majors?
   
-# Data Sources 
+# The Dataset
 
 # Methods
 
