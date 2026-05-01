@@ -1,1 +1,1 @@
-# Early-Career-Salary-Predictors-Major-School-or-Experience
+# Early-Career-Salary-Predictors
