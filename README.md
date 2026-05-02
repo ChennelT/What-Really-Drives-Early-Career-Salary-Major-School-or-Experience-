@@ -24,10 +24,8 @@ The institutional and field-of-study datasets were merged using a common identif
 
 ### Descriptive Statistics  
 Summary statistics were calculated for earnings and SAT scores across major categories to provide an overview of the data. These statistics help identify initial differences in outcomes by field of study before conducting further analysis.  
-
 ### Visualization & Analysis  
 Visualizations, including boxplots, bar charts, and scatterplots, were used to explore patterns in the data. The lots highlight differences in earnings across majors and illustrate the relationship between SAT scores and earnings.
-
 ### Regression Analysis  
 Linear regression models were estimated to examine the association between SAT scores and major choice and earnings. Interaction terms were included to assess whether the relationship between SAT scores and earnings differs across majors.
 # Key Results
