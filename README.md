@@ -29,7 +29,27 @@ Visualizations, including boxplots, bar charts, and scatterplots, were used to e
 ### Regression Analysis  
 Linear regression models were estimated to examine the association between SAT scores and major choice and earnings. Interaction terms were included to assess whether the relationship between SAT scores and earnings differs across majors.
 # Key Results
+### 1. Earnings by Major Category
+   - Earnings differ significantly across majors.
+   - Stem and Business majors have the highest median earnings, while Humanities majors have the lowest.
+<img width="400" height="250" alt="earnings_by_major" src="https://github.com/user-attachments/assets/640d383e-4406-4d8a-b1b5-89143f83524f" />    
 
+### 2. Average Earnings By Major Category
+   - Higher SAT score ranges are associated with higher average earnings.
+   - The relationship is positive and consistent across score ranges. 
+<img width="400" height="250" alt="earnings_by_sat_range" src="https://github.com/user-attachments/assets/760b706b-7c78-49fb-b02d-414a43ce47cc" />    
+
+### 3. Earnings vs. SAT Scores by Major Category
+   - Earnings increase with SAT scores across all majors.
+   - However, differences between majors are larger than differences explained by SAT scores alone.
+<img width="400" height="250" alt="earnings_sat_major" src="https://github.com/user-attachments/assets/56c2fa45-2404-499c-a1d1-341fcaec6a01" />    
+
+### 4. Summary Statistics
+   - Average earnings and SAT scores across all majors.
+   - Higher-earning majors tend to be associated with higher average SAT scores.
+<img width="1020" height="164" alt="Screenshot 2026-05-01 at 21 11 15" src="https://github.com/user-attachments/assets/b771c393-5eb4-4ad2-ae3d-9aa88d29f354" />
+
+                    
 # Conclusion  
 This project examined how college major and school characteristics are associated with early-career earnings. While both factors play a role, the results consistently show that major choice is a stronger predictor of earnings than school selectivity.
 
