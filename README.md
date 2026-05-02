@@ -47,12 +47,14 @@ Linear regression models were estimated to examine the association between SAT s
 ### 4. Summary Statistics
    - Average earnings and SAT scores across all majors.
    - Higher-earning majors tend to be associated with higher average SAT scores.
-<img width="1020" height="164" alt="Screenshot 2026-05-01 at 21 11 15" src="https://github.com/user-attachments/assets/b771c393-5eb4-4ad2-ae3d-9aa88d29f354" />
+<img width="1042" height="137" alt="Screenshot 2026-05-01 at 23 01 00" src="https://github.com/user-attachments/assets/6d916ca7-47ab-4f0f-ab62-8bdf41beaa9a" />
 
-                    
 # Conclusion  
 This project examined how college major and school characteristics are associated with early-career earnings. While both factors play a role, the results consistently show that major choice is a stronger predictor of earnings than school selectivity.
 
 Although attending a more selective institution is associated with higher salaries, differences across majors are larger and more persistent. Students in high-paying fields such as STEM earn more regardless of the selectivity of the institution they attend.
 
 These findings highlight the importance of your field of study in shaping early-career economic opportunities.
+
+# Reproducibility
+This project is fully reductible. All datasets and R code are included in the repository, and the analysis can be replicated by running the provided script.
