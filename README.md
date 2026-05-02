@@ -31,7 +31,7 @@ Linear regression models were estimated to examine the association between SAT s
 # Key Results
 ### 1. Earnings by Major Category
    - Earnings differ significantly across majors.
-   - Stem and Business majors have the highest median earnings, while Humanities majors have the lowest.
+   - STEM and Business majors have the highest median earnings, while Humanities majors have the lowest.
 <img width="400" height="250" alt="earnings_by_major" src="https://github.com/user-attachments/assets/640d383e-4406-4d8a-b1b5-89143f83524f" />    
 
 ### 2. Average Earnings By Major Category
@@ -50,11 +50,7 @@ Linear regression models were estimated to examine the association between SAT s
 <img width="1042" height="137" alt="Screenshot 2026-05-01 at 23 01 00" src="https://github.com/user-attachments/assets/6d916ca7-47ab-4f0f-ab62-8bdf41beaa9a" />
 
 # Conclusion  
-This project examined how college major and school characteristics are associated with early-career earnings. While both factors play a role, the results consistently show that major choice is a stronger predictor of earnings than school selectivity.
-
-Although attending a more selective institution is associated with higher salaries, differences across majors are larger and more persistent. Students in high-paying fields such as STEM earn more regardless of the selectivity of the institution they attend.
-
-These findings highlight the importance of your field of study in shaping early-career economic opportunities.
+This project finds that both SAT scores and major choice are associated with early-career earnings, with higher SAT scores linked to higher salaries. However, differences across majors are larger and more consistent, with STEM and Business fields earning more than others. Overall, the resuts suggest that what students study play a more important role in earnings than where they attend college.
 
 # Reproducibility
-This project is fully reductible. All datasets and R code are included in the repository, and the analysis can be replicated by running the provided script.
+This project is fully reproducible. All datasets and R code are included in the repository, and the analysis can be replicated by running the provided script.
