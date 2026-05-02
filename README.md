@@ -32,17 +32,17 @@ Linear regression models were estimated to examine the association between SAT s
 ### 1. Earnings by Major Category
    - Earnings differ significantly across majors.
    - STEM and Business majors have the highest median earnings, while Humanities majors have the lowest.
-<img width="400" height="250" alt="earnings_by_major" src="https://github.com/user-attachments/assets/640d383e-4406-4d8a-b1b5-89143f83524f" />    
+<img width="600" height="350" alt="earnings_by_major" src="https://github.com/user-attachments/assets/640d383e-4406-4d8a-b1b5-89143f83524f" />    
 
 ### 2. Average Earnings By Major Category
    - Higher SAT score ranges are associated with higher average earnings.
    - The relationship is positive and consistent across score ranges. 
-<img width="400" height="250" alt="earnings_by_sat_range" src="https://github.com/user-attachments/assets/760b706b-7c78-49fb-b02d-414a43ce47cc" />    
+<img width="600" height="350" alt="earnings_by_sat_range" src="https://github.com/user-attachments/assets/760b706b-7c78-49fb-b02d-414a43ce47cc" />    
 
 ### 3. Earnings vs. SAT Scores by Major Category
    - Earnings increase with SAT scores across all majors.
    - However, differences between majors are larger than differences explained by SAT scores alone.
-<img width="400" height="250" alt="earnings_sat_major" src="https://github.com/user-attachments/assets/56c2fa45-2404-499c-a1d1-341fcaec6a01" />    
+<img width="600" height="350" alt="earnings_sat_major" src="https://github.com/user-attachments/assets/56c2fa45-2404-499c-a1d1-341fcaec6a01" />    
 
 ### 4. Summary Statistics
    - Average earnings and SAT scores across all majors.
