@@ -15,11 +15,26 @@ In doing so, the project examines:
   
 # The Dataset
 The analysis contains data from the College Scorecard (2022-2023), which includes:
-- Institutional Data
-- Field of Study Data
+- Institutional Data consisting of admission rates, average SAT scores, tuition, and school types.
+- Field of Study Data consisting of major descriptions and median earnings for years after graduation.
   
 # Methods
+### Data Cleaning and Preparation  
+The institutional and field-of-study datasets were merged using a common identifier, and relevant variables such as SAT scores, earnings, and majors were selected and renamed for clarity. Missing values and extreme earnings outliers were removed, and detailed majors were grouped into broader categories to simplify analysis.
 
+### Descriptive Statistics  
+Summary statistics were calculated for earnings and SAT scores across major categories to provide an overview of the data. These statistics help identify initial differences in outcomes by field of study before conducting further analysis.  
+
+### Visualization & Analysis  
+Visualizations, including boxplots, bar charts, and scatterplots, were used to explore patterns in the data. The lots highlight differences in earnings across majors and illustrate the relationship between SAT scores and earnings.
+
+### Regression Analysis  
+Linear regression models were estimated to examine the association between SAT scores and major choice and earnings. Interaction terms were included to assess whether the relationship between SAT scores and earnings differs across majors.
 # Key Results
 
-# Conclusion
+# Conclusion  
+This project examined how college major and school characteristics are associated with early-career earnings. While both factors play a role, the results consistently show that major choice is a stronger predictor of earnings than school selectivity.
+
+Although attending a more selective institution is associated with higher salaries, differences across majors are larger and more persistent. Students in high-paying fields such as STEM earn more regardless of the selectivity of the institution they attend.
+
+These findings challenge the common assumption that school prestige alone determines earnings outcomes. Instead, they highlight the importance of your field of study in shaping early-career economic opportunities.
