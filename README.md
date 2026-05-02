@@ -11,10 +11,13 @@ This project examines how early-career salary is associated with differences in 
 In doing so, the project examines:
 * How do earnings vary across different majors?
 * Do institutional characteristics such as selectivity and school type influence earnings outcomes?
-* Do students at selective schools earn more even if they have the same major?
+* Does the relationship between SAT scores and earnings differ across majors?
   
 # The Dataset
-
+The analysis contains data from the College Scorecard (2022-2023), which includes:
+- Institutional Data
+- Field of Study Data
+  
 # Methods
 
 # Key Results
