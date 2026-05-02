@@ -37,4 +37,4 @@ This project examined how college major and school characteristics are associate
 
 Although attending a more selective institution is associated with higher salaries, differences across majors are larger and more persistent. Students in high-paying fields such as STEM earn more regardless of the selectivity of the institution they attend.
 
-These findings challenge the common assumption that school prestige alone determines earnings outcomes. Instead, they highlight the importance of your field of study in shaping early-career economic opportunities.
+These findings highlight the importance of your field of study in shaping early-career economic opportunities.
